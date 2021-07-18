@@ -1,0 +1,16 @@
+*{
+    padding: none;
+    margin: 0;
+}
+.nav{
+    background-color: black;
+    display: flex;
+    justify-content: end;
+    padding: 1rem;
+    font-size: 20px;
+
+    a{
+        color: white;
+        text-decoration: none;
+    }
+}
